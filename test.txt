@@ -2,5 +2,3 @@ hello there!!
 hello there!!
 
 adding new sample commit !!
-
-code refactored
